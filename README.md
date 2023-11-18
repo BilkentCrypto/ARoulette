@@ -1,1 +1,1 @@
-## ZK-Casino Project Built In zkHackathon by Aleo
+## Roulette Project Built In ETHGobal Istanbul
